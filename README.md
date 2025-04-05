@@ -36,4 +36,15 @@ A GUI-based advanced quiz application built using **Python**, **Tkinter**, and *
 4. Run the app:
    advanced_online_quiz.py
    
-🖼️ Screenshots
+💡 Future Scope
+✅ Admin panel for adding/editing questions
+✅ Timer-based quiz
+✅ User login & score history
+✅ Export results to CSV or PDF
+
+🙋‍♂️ Author
+Om – Python Developer
+📫 LinkedIn (www.linkedin.com/in/om-kadane-1429b82b3)
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
