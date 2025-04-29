@@ -17,7 +17,7 @@ A GUI-based advanced quiz application built using **Python**, **Tkinter**, and *
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**  
+- **Python 3.13.0
 - **Tkinter** (for GUI)  
 - **SQLite3** (for database)
 
