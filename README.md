@@ -27,7 +27,7 @@ A GUI-based advanced quiz application built using **Python**, **Tkinter**, and *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Advanced-Online-Quiz-System.git
+   git https://github.com/OmKadane/Advanced-Online-Quiz-System.git
    cd Advanced-Online-Quiz-System
 
 2. Install dependencies:
