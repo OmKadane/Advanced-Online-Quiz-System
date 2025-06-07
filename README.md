@@ -43,7 +43,7 @@ A GUI-based advanced quiz application built using **Python**, **Tkinter**, and *
 ✅ Export results to CSV or PDF
 
 🙋‍♂️ Author -
-Om – Python Developer
+Om Kadane – Python Programmer | Aspiring Full Stack Python Dev
 📫 LinkedIn (www.linkedin.com/in/om-kadane-1429b82b3)
 
 📄 License -
